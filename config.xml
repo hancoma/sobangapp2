@@ -1,7 +1,7 @@
 ﻿<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.simchungee.hancoma" version="1.0.5">
-  <name>소방최저가.com</name>
-  <description>소방최저가</description>
-  <author href="http://sobangapp.cafe24.com" email="ch7@daum.net">김대경</author>
+  <name>폐소화기수거</name>
+  <description>페소화기수거</description>
+  <author href="https://spark.adobe.com/page/sPZ9KBRApQzQS/" email="ch7@daum.net">김대경</author>
   <content src="index.html"/>
 <preference name='phonegap-version' value='cli-6.5.0' />
 <preference name='pgb-builder-version' value='2' />
