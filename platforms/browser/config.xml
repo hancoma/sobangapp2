@@ -6,9 +6,9 @@
     <feature name="Device">
         <param name="browser-package" value="Device" />
     </feature>
-    <name>소방최저가.com</name>
-    <description>소방최저가</description>
-    <author email="ch7@daum.net" href="http://sobangapp.cafe24.com">김대경</author>
+    <name>폐소화기수거</name>
+    <description>페소화기수거</description>
+    <author email="ch7@daum.net" href="https://spark.adobe.com/page/sPZ9KBRApQzQS/">김대경</author>
     <content src="index.html" />
     <icon src="icon.png" />
     <access origin="*" />
