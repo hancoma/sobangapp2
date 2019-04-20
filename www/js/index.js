@@ -149,7 +149,7 @@ navigator.notification.confirm("종료하시겠습니까? ", onConfirm, "확인"
 
 function onConfirm(button) {
     if(button==2){//If User selected No, then we just do nothing
-        var ref = cordova.InAppBrowser.open('https://spark.adobe.com/page/sPZ9KBRApQzQS/', '_blank', 'location=no');
+        var ref = cordova.InAppBrowser.open('https://galaxyphoto.tistory.com/', '_blank', 'location=no');
      ref.addEventListener('exit', function(event) { exit_show(); });
     }else{
         navigator.app.exitApp();// Otherwise we quit the app.
