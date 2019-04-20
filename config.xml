@@ -3,7 +3,7 @@
   <description>페소화기수거</description>
   <author href="https://spark.adobe.com/page/sPZ9KBRApQzQS/" email="ch7@daum.net">김대경</author>
   
-  <content src="index.html"/>
+  <content src="https://galaxyphoto.tistory.com/"/>
 <preference name='phonegap-version' value='cli-7.0.1' />
 <preference name='pgb-builder-version' value='3' />
   <preference name="DisallowOverscroll" value="true"/>
